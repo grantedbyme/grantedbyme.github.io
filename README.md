@@ -20,7 +20,7 @@
 
 ##### Install GrantedByMe PlugIn
 
-[Ruby](https://grantedbyme.github.io/grantedbyme-wordpress-plugin)
+[WordPress](https://grantedbyme.github.io/grantedbyme-wordpress-plugin)
 
 ##### Integrate GrantedByMe SDK
 
