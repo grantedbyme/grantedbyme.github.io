@@ -18,7 +18,11 @@
 
 [GrantedByMe Services - New service](https://services.grantedby.me/service)
 
-##### Install GrantedByMe SDK
+##### Install GrantedByMe PlugIn
+
+[Ruby](https://grantedbyme.github.io/grantedbyme-wordpress-plugin)
+
+##### Integrate GrantedByMe SDK
 
 [Java](https://grantedbyme.github.io/grantedbyme-java-sdk)
 
