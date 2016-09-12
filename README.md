@@ -26,6 +26,8 @@
 
 [Java](https://grantedbyme.github.io/grantedbyme-java-sdk)
 
+[Node.js](https://grantedbyme.github.io/grantedbyme-nodejs-sdk)
+
 [PHP](https://grantedbyme.github.io/grantedbyme-php-sdk)
 
 [Python](https://grantedbyme.github.io/grantedbyme-python-sdk)
