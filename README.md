@@ -1,35 +1,65 @@
 # Getting started
 
-#### Users
-
-##### Download GrantedByMe Mobile app
+## Install GrantedByMe Mobile app
 
 [Android](https://play.google.com/apps/testing/com.grantedbyme.android.auth)
 
 [iOS](https://itunes.apple.com/app/grantedby.me/id1141721329?mt=8)
 
-##### Login to your account
+## Users
+
+### Login to your account
 
 [GrantedByMe Account](https://account.grantedby.me/)
 
-#### Service Providers
+## Service Providers
 
-##### Create your service
+### Create your service
 
-[GrantedByMe Services - New service](https://services.grantedby.me/service)
+[GrantedByMe Services](https://services.grantedby.me/service)
 
-##### Install GrantedByMe PlugIn
+### Integrate GrantedByMe PlugIn or SDK
 
-[WordPress](https://grantedbyme.github.io/grantedbyme-wordpress-plugin)
+#### WordPress
 
-##### Integrate GrantedByMe SDK
+[PlugIn source](https://github.com/grantedbyme/grantedbyme-wordpress-plugin)
 
-[Java](https://grantedbyme.github.io/grantedbyme-java-sdk)
+[PlugIn release](https://cdn.grantedby.me/plugins/wordpress/grantedbyme.zip)
 
-[Node.js](https://grantedbyme.github.io/grantedbyme-nodejs-sdk)
+#### Java
 
-[PHP](https://grantedbyme.github.io/grantedbyme-php-sdk)
+[SDK source](https://github.com/grantedbyme/grantedbyme-java-sdk)
 
-[Python](https://grantedbyme.github.io/grantedbyme-python-sdk)
+[Example source](https://github.com/grantedbyme/grantedbyme-java-example)
 
-[Ruby](https://grantedbyme.github.io/grantedbyme-ruby-sdk)
+#### Node.js
+
+[SDK source](https://github.com/grantedbyme/grantedbyme-nodejs-sdk)
+
+[Example source](https://github.com/grantedbyme/grantedbyme-nodejs-example)
+
+[Express.js demo](https://demo.grantedby.me/express/login.html)
+
+#### PHP
+
+[SDK source](https://github.com/grantedbyme/grantedbyme-php-sdk)
+
+[Example source](https://github.com/grantedbyme/grantedbyme-php-example)
+
+[FatFree demo](https://demo.grantedby.me/fatfree/login.php)
+
+#### Python
+
+[SDK source](https://github.com/grantedbyme/grantedbyme-python-sdk)
+
+[Example source](https://github.com/grantedbyme/grantedbyme-python-example)
+
+[Flask demo](https://demo.grantedby.me/flask/login)
+
+#### Ruby
+
+[SDK source](https://github.com/grantedbyme/grantedbyme-ruby-sdk)
+
+[Example source](https://github.com/grantedbyme/grantedbyme-ruby-example)
+
+[Sinatra demo](https://demo.grantedby.me/sinatra/login)
