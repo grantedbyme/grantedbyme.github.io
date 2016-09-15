@@ -26,6 +26,8 @@
 
 [PlugIn release](https://cdn.grantedby.me/plugins/wordpress/grantedbyme.zip)
 
+[PlugIn demo](https://demo.grantedby.me/wordpress)
+
 #### Java
 
 [SDK source](https://github.com/grantedbyme/grantedbyme-java-sdk)
