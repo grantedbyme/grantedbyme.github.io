@@ -2,7 +2,7 @@
 
 ## Install GrantedByMe Mobile app
 
-[Android](https://play.google.com/apps/testing/com.grantedbyme.android.auth)
+[Android](https://play.google.com/store/apps/details?id=com.grantedbyme.android.auth)
 
 [iOS](https://itunes.apple.com/app/grantedby.me/id1141721329?mt=8)
 
